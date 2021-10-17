@@ -11,3 +11,8 @@ Run a simple program:
 ```sh
 go run .
 ```
+
+Installing external packages can also be done:
+```sh
+go get github.com/google/uuid
+```
